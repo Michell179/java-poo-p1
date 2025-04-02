@@ -1,4 +1,4 @@
-package co.michell;
+package dev.michell;
 
 public class Main {
     public static void main(String[] args) {
